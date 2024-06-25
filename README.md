@@ -2,7 +2,7 @@
 
 Estou cursando ciência da computação, sou desenvolvedor fullstack JR.
 
-🔭 Desenvolvendo um sistema de gestão financeira / react / loading...
+🔭 Desenvolvendo um sistema de gestão financeira / react / loading....
 
 💬 Busco estágio em TI para aplicar meus conhecimentos, oferecendo soluções 
 inovadoras e eficazes. Comprometo-me a aprimorar minhas habilidades técnicas e crescer junto à equipe.
